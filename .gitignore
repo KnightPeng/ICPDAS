@@ -1,0 +1,9 @@
+*.xlsx
+*.csv
+*.ini
+build/*
+dist/*
+__pycache__/*
+venv/*
+.idea/*
+*.spec

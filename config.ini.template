@@ -1,0 +1,5 @@
+[DEFAULT]
+DB_HOST = <host>
+DB_USERNAME = <username>
+DB_PW = <password>
+DB_NAME = <database name>
